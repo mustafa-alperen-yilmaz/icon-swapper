@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["IconSwapperModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.iconswapper.IconSwapperModule"]
+  }
+}

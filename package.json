@@ -1,0 +1,26 @@
+{
+  "name": "icon-swapper",
+  "version": "0.1.0",
+  "description": "Safely switch the app icon on iOS and Android — every native call is deferred and hopped onto the right thread, so it doesn't crash under Expo's bridgeless New Architecture the way some alternate-icon libraries do when the native module is instantiated eagerly.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "sideEffects": false,
+  "keywords": [
+    "react-native",
+    "expo",
+    "icon-swapper",
+    "IconSwapper",
+    "ios",
+    "android",
+    "app-icon",
+    "alternate-icon",
+    "dynamic-icon"
+  ],
+  "author": "Mustafa Alperen Yılmaz",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
