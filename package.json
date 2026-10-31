@@ -18,6 +18,14 @@
   ],
   "author": "Mustafa Alperen Yılmaz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-alperen-yilmaz/icon-swapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mustafa-alperen-yilmaz/icon-swapper/issues"
+  },
+  "homepage": "https://github.com/mustafa-alperen-yilmaz/icon-swapper#readme",
   "peerDependencies": {
     "expo": "*",
     "react": "*",
